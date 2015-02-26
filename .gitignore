@@ -1,0 +1,17 @@
+build/
+node_modules/
+.idea/
+*.css
+*.log
+coverage/lcov
+.info
+.coveralls.yml
+.sass-cache/
+.project
+config.rb
+*.iml
+.npmignore
+.travis.yml
+routes/
+views/
+bin/
